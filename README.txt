@@ -1,4 +1,4 @@
-This is a repo for Portfolio website [Portfolio website](https://nehasharma2513.github.io/NehaSharma25.github.io/)
+This is a repo for [Portfolio website](https://nehasharma2513.github.io/NehaSharma25.github.io/)
 
 
 
